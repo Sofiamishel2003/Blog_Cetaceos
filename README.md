@@ -2,7 +2,8 @@
   - Link del proyecto: https://tiburoncin.lat/22049/Blog_Cetaceos/html/ 
 # Requerimientos empleados
   - Diseño de Interfaz (30 puntos) [Criterio Subjetivo]
-  - Resoluciones Mobiles y de Escritorio (20 puntos) [Criterio Subjetivo] 
+  - Resoluciones Mobiles y de Escritorio (20 puntos) [Criterio Subjetivo] Aunque se ve bien en telefono también
+    ![image](https://github.com/Sofiamishel2003/Blog_Cetaceos/assets/98661058/1ab24182-e857-4cbc-b7c8-7e6edce6e002) 
   - Componentes Relevantes (5 puntos por componente, máximo 5): El código muestra la creación de componentes Loading, PostItem, app y Posts, cada uno cumpliendo un rol específico dentro de la aplicación. Esto sugiere un enfoque modular para construir la interfaz de usuario, por lo que se pueden otorgar los puntos completos en este aspecto (20 puntos).
   - Implementación de Prop-Types (15 puntos): Se ha utilizado prop-types para validar las propiedades del componente PostItem, lo cual es una buena práctica en el desarrollo de aplicaciones React. Esto justifica la asignación completa de los puntos en este criterio.
   - Animación de "Loading" (5 puntos): El componente Loading se implementa para mostrar un mensaje mientras se cargan los datos, cumpliendo con este requisito.
