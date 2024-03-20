@@ -1,4 +1,6 @@
 # Requerimientos empleados
+  - Link del proyecto: https://tiburoncin.lat/22049/Blog_Cetaceos/html/ 
+# Requerimientos empleados
   - Diseño de Interfaz (30 puntos) [Criterio Subjetivo]
   - Resoluciones Mobiles y de Escritorio (20 puntos) [Criterio Subjetivo] 
   - Componentes Relevantes (5 puntos por componente, máximo 5): El código muestra la creación de componentes Loading, PostItem, app y Posts, cada uno cumpliendo un rol específico dentro de la aplicación. Esto sugiere un enfoque modular para construir la interfaz de usuario, por lo que se pueden otorgar los puntos completos en este aspecto (20 puntos).
